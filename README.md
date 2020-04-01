@@ -10,10 +10,9 @@ The scope is only generate a file containing info of holidaymakers that come bac
 The data of this holidaymakers will be insert only once in this file, and every time is needed to register this people, 
 the prog allow to generate the registration file (that can be sent online instead of manually reinsert all data via web portal). 
 For specification about registration file format see
-	```
+
 	- "Manuale Utente"[https://alloggiatiweb.poliziadistato.it/PortaleAlloggiati/SupManuali.aspx]
 	- "Documento tecnico Creazione File" [https://alloggiatiweb.poliziadistato.it/PortaleAlloggiati/SupManuali.aspx].
-	```
 
 Interface example
 ```
